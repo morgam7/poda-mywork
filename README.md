@@ -15,13 +15,13 @@ How users can get started with the project
 ## Getting Help
 Where users can get help with your project
 
-## Contibuting
+## Contributing
 Who maintains and contributes to the project
 
 
 
 ### Links I found useful:
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics /n
-https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html/ /n
-https://www.overleaf.com/ /n
-https://www.codecademy.com/resources/blog/what-is-markdown/
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics \
+https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html \
+https://www.overleaf.com \
+https://www.codecademy.com/resources/blog/what-is-markdown
